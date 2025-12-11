@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- LIGHT MODE -->
+
+    <!-- Background -->
+    <color name="bg_start">#0A1A25</color>
+    <color name="bg_end">#051017</color>
+
+    <!-- Text -->
+    <color name="text_primary">#E9F5FF</color>
+    <color name="text_secondary">#4B6A78</color>
+
+    <!-- Buttons -->
+    <color name="btn_bg">#2E8BC0</color>
+    <color name="btn_text">#FFFFFF</color>
+
+    <!-- Accent -->
+    <color name="accent">#5FD4FF</color>
+
+</resources>

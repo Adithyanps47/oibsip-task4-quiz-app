@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="Theme.QuizApp" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- App Background -->
+        <item name="android:windowBackground">@drawable/ocean_gradient</item>
+
+        <!-- Accent -->
+        <item name="android:colorAccent">@color/accent</item>
+
+        <!-- Default text color -->
+        <item name="android:textColor">@color/text_primary</item>
+
+        <!-- BUTTON COLORS -->
+        <item name="colorPrimary">@color/btn_bg</item>
+        <item name="colorOnPrimary">@color/btn_text</item>
+        <item name="android:colorButtonNormal">@color/btn_bg</item>
+
+    </style>
+
+</resources>
