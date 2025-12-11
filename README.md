@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="120" height="120" alt="Quizify Logo"/>
+  <img src="https://github.com/Adithyanps47/oibsip-task4-quiz-app/blob/main/app/src/main/quiz_app_logo-playstore.png?raw=true" width="120" height="120" alt="Quizify Logo"/>
 
   <h1>Quizify App</h1>
   <p>
@@ -40,12 +40,12 @@ The app offers a seamless quizzing experience:
 ## 📸 Screenshots
 | Quiz Start Screen | Question Interface | Result Screen |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/start_screen.jpg" width="200" alt="Start Screen"> | <img src="docs/screenshots/quiz_screen.jpg" width="200" alt="Quiz Screen"> | <img src="docs/screenshots/result_screen.jpg" width="200" alt="Result Screen"> |
+| <img src="https://github.com/Adithyanps47/oibsip-task4-quiz-app/blob/main/docs/screenshots/start_screen.jpg?raw=true" width="200" alt="Start Screen"> | <img src="https://github.com/Adithyanps47/oibsip-task4-quiz-app/blob/main/docs/screenshots/quiz_screen.jpg?raw=true" width="200" alt="Quiz Screen"> | <img src="https://github.com/Adithyanps47/oibsip-task4-quiz-app/blob/main/docs/screenshots/result_screen.jpg?raw=true" width="200" alt="Result Screen"> |
 
 ## 🎥 Demo
 See the app in action!
 
-[**▶️ Watch Demo Video**](docs/demo/app_demo.mp4)
+[**▶️ Watch Demo Video**](https://github.com/Adithyanps47/oibsip-task4-quiz-app/blob/main/docs/demo_video/app_demo.mp4)
 <br>
 *(Click above to view the screen recording inside the repository)*
 
